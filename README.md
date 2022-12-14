@@ -1,37 +1,8 @@
-<a name="readme-top"></a>
-
-<div align="left">
-  ![]()
-</div>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
 
 </div>
 
@@ -43,20 +14,15 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -84,16 +50,6 @@ After you're finished please remove all the comments and instructions!
 
 - **[Print out the decoded morse code string]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
-
-
-<!-- > Add a link to your deployed project. -->
-
-<!-- - [Live Demo Link](https://sweet-starship-bccb39.netlify.app/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,16 +85,6 @@ Run this from the root folder at the command prompt.
 - ruby decoder.rb
 
 
-<!-- ### Run tests
-
-npm test -->
-
-
-
-<!-- ### Deployment -->
-<!-- npm run build -->
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -153,20 +99,10 @@ npm test -->
 
 👤 **Baayeh Kwasi**
 
-- GitHub: [@j-tee](https://github.com/Baayeh)
-- Twitter: [@JuliusTee](https://twitter.com/Cest_Baayeh)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kabaayeh)
+- GitHub: [Baayeh](https://github.com/Baayeh)
+- Twitter: [@Cest_Baayeh](https://twitter.com/Cest_Baayeh)
+- LinkedIn: [kabaayeh](https://linkedin.com/in/kabaayeh)
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-<!-- ## 🔭 Future Features <a name="future-features"></a> -->
-
-<!-- - [ ] **[Additional table]** -->
-<!-- - [ ] **[Implement foreign key constraint]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,22 +128,7 @@ If you like this project create an issue with your comments.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- - I would like to thank [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for inspiring the design. 
-- [Free and open-source brewery data](https://api.openbrewerydb.org) for the API -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-<!-- 
-- **[How to use createAsyncThunk()]**
-
-  - [createAsyncThunk](https://redux-toolkit.js.org/api/createAsyncThunk)
-
-- **[Quicker method to install the project]**
-
-  - [Clone the project and run npm install ] -->
+- I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
