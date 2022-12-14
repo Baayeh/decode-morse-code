@@ -38,3 +38,10 @@ def decode_char(character)
     end
   }
 end
+
+def decode_word(code)
+  _code = code.split(" ")
+_code.each { |i|
+  decode_char(i)
+}
+end
