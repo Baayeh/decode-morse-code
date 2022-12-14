@@ -15,9 +15,11 @@ end
 
 def decode_word(word)
   split_word = word.split
+  word = []
   split_word.each do |i|
-    decode_char(i)
+    word << decode_char(i)
   end
+  word.join
 end
 
 # decode entire message
@@ -25,11 +27,7 @@ def decode(message)
   words = message.split('   ')
   decoded_msg = ''
   words.each do |word|
-    letters = word.split
-    letters.each do |letter|
-      decoded_msg += decode_char(letter)
-    end
-    decoded_msg += ' '
+    decoded_msg += "#{decode_word(word)} "
   end
   decoded_msg.strip
 end
